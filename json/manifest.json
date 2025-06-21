@@ -1,5 +1,5 @@
 {
-    "name": "Projeto 01",
+    "name": "Calculadora de imc",
     "short_name": "P01",
     "start_url": "../index.html",
     "display": "standalone",
